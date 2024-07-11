@@ -18,7 +18,9 @@ mongoose.connect('mongodb+srv://admin:admin123@cinebit.qbmafki.mongodb.net/Node-
     .catch((error) => {
         console.log(error);
     });
-
+    app.get('/', function(req, res) {
+        res.sendFile('./welcome.html', {root: __dirname })
+    });
 app.get('/movie', async (req, res) => {
     try {
         const movie = await Movie.find({});

@@ -4,7 +4,9 @@ const Movie = require('./models/movieModel');
 const User = require('./models/userModel');
 
 const app = express();
+const cors= require('cors');
 
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

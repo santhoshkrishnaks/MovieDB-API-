@@ -1,0 +1,78 @@
+[33mcommit 13ea10339a3af097bd46d2a9552461f909e0cbdf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 8cadb6a f344a56
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Mon Jul 29 19:02:21 2024 +0530
+
+    Merge branch 'main' of https://github.com/santhoshkrishnaks/MovieDB-API-
+
+[33mcommit 8cadb6aa5174a0128804e1a1a29cf4bc6aeaa659[m
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Mon Jul 29 19:00:14 2024 +0530
+
+    Added the index.html to project
+
+[33mcommit f344a56d80a452c2013412dd2f7740014ae78a87[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Santhosh Krishna K S <147795357+santhoshkrishnaks@users.noreply.github.com>
+Date:   Thu Jul 11 20:53:35 2024 +0530
+
+    Update README.md
+
+[33mcommit faaea46f62fd1d75096ff3f9405aa2eb413a6a67[m
+Author: Santhosh Krishna K S <147795357+santhoshkrishnaks@users.noreply.github.com>
+Date:   Thu Jul 11 20:52:41 2024 +0530
+
+    Create README.md
+
+[33mcommit 0f4a91caa68a140b753f178a587feeff4b8b44e5[m
+Author: Santhosh Krishna K S <147795357+santhoshkrishnaks@users.noreply.github.com>
+Date:   Thu Jul 11 20:40:27 2024 +0530
+
+    Create LICENSE
+
+[33mcommit ce449570e0eca28cc9714312513abb99401906dd[m
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Thu Jul 11 17:50:17 2024 +0530
+
+    Final Update
+
+[33mcommit 19603f19c9895f902ad7c818906b291bcafe4864[m
+Merge: 20f9fcc df2c8a4
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Thu Jul 11 10:17:15 2024 +0530
+
+    Merge branch 'main' of https://github.com/santhoshkrishnaks/MovieDB-API-
+
+[33mcommit 20f9fccc2d37d9baa31c6dc153bc046e88895152[m
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Thu Jul 11 10:16:54 2024 +0530
+
+    Changes Made for Root Page
+
+[33mcommit df2c8a42d317a17cc06e336e07c0688b9b6cfb08[m
+Merge: 5b247ba 191cad7
+Author: Santhosh Krishna K S <147795357+santhoshkrishnaks@users.noreply.github.com>
+Date:   Wed Jul 10 23:34:58 2024 +0530
+
+    Merge pull request #1 from sanjay-senthilkumar01/patch-1
+    
+    Create vercel.json
+
+[33mcommit 191cad70b40dc39a5b9bdac222777d3be3073586[m
+Author: Sanjay senthilkumar <125595456+sanjay-senthilkumar01@users.noreply.github.com>
+Date:   Wed Jul 10 22:49:30 2024 +0530
+
+    Create vercel.json
+    
+    Deployment config
+
+[33mcommit 5b247ba7740891d5d32e004e3bf34389d11b4c65[m
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Wed Jul 10 21:31:19 2024 +0530
+
+    inital
+
+[33mcommit d0883fc4c363d4ee5b3b01cadf10346285f9a7f2[m
+Author: santhoshkrishnaks <santhoshkrishna771@gmail.com>
+Date:   Wed Jul 10 20:37:37 2024 +0530
+
+    MovieDB

@@ -8,7 +8,7 @@ const cors= require('cors');
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static("public")) ;
+app.use(express.static(path.join(__dirname, 'public')));
 
 mongoose.connect('mongodb+srv://admin:admin123@cinebit.qbmafki.mongodb.net/Node-API?retryWrites=true&w=majority&appName=CineBit')
     .then(() => {

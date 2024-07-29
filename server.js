@@ -5,7 +5,6 @@ const User = require('./models/userModel');
 
 const app = express();
 const cors= require('cors');
-
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -21,7 +20,7 @@ mongoose.connect('mongodb+srv://admin:admin123@cinebit.qbmafki.mongodb.net/Node-
         console.log(error);
     });
     app.get('/', function(req, res) {
-        res.sendFile('./welcome.html', {root: __dirname })
+        res.sendFile('./public/index.html', {root: __dirname })
     });
 app.get('/movie', async (req, res) => {
     try {
